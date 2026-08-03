@@ -3,4 +3,4 @@ Tracking my DSA practice as I work towards building a strong CS profile and GATE
 |#|Problem | Topic | Difficulty | Link |
 |-|--------|-------|------------|------|
 |1|Single Number| Bit Manupulation/XOR | Easy|[solution](arrays/singlenumber.cpp)|
-|2|Maximum Subarray| Kadane Algorithm|Medium| [solution](arrays/maximumsubarray.cpp)
+|2|Maximum Subarray| Kadane Algorithm|Medium| [solution](arrays/maximumsarray.cpp)
